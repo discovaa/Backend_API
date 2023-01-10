@@ -1,7 +1,4 @@
 from django.db import models
-
-
-from django.db import models
 from shortuuid.django_fields import ShortUUIDField
 from django.db.models.signals import pre_save
 from django.dispatch import receiver

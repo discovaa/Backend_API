@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+v-env/
+*/migrations/*
+!*__init__.py
+tmp/
+*db.sqlite3

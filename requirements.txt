@@ -17,7 +17,11 @@ PyYAML
 requests
 sqlparse
 toml
-tzda
+tzdata
 uritemplate
 urllib3
-jazzmin
+django-jazzmin
+shortuuid
+django-taggit
+django-ckeditor
+django-ckeditor-5
